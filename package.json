@@ -1,0 +1,9 @@
+{
+	"author":"shero huo",
+	"name":"censorify",
+	"version":"0.0.1",
+	"dependencies":{},
+	"engines":{
+		"node":"*"
+	}
+}
